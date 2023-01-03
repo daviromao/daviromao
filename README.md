@@ -2,7 +2,7 @@
 
 Olá! Me chamo Davi. Descobri a programação logo quando criança e desde então tenho total certeza do que mais quero: usar da programação como meio para criar inovações!
 Sou uma pessoa que aprecia a informática, programação, computadores e tudo que envolve tecnologias, especialmente por ter a capacidade de aprende-las de forma autônoma e rápida.
-Creio que posso agregar em projetos reais que façam a diferença para pessoas reais, por isso, tenho a necessidade de consumir, aprender, ensinar e aplicar conhecimento. Esse último trecho é bastante importante, especialmente "ensinar", o que descobri ser uma de minhas paixões.
+Creio que posso agregar em projetos reais que façam a diferença para pessoas reais, por isso, tenho a necessidade de consumir, aprender, aplicar e ensinar conhecimento.
 
 <br>
 
@@ -15,7 +15,6 @@ Creio que posso agregar em projetos reais que façam a diferença para pessoas r
 - 🧠 Gosto de física e matemática
 - 🐍 Python é minha paixão na programação
 - 📘 Estudando para ser um backend developer
-- 🔍 Vontade de estudar sobre Golang, Nodejs e Ruby e suas stacks
 
 <br>
 <br>
