@@ -11,10 +11,10 @@ Creio que posso agregar em projetos reais que façam a diferença para pessoas r
 <br>
 
 - 🌎 Sou de Maceió-AL
+- 🏫 Estudante de Ciências da Computação - UFAL
 - 👨🏻‍💻 Amo programar e aprender sobre tecnologia
 - 🧠 Gosto de física e matemática
 - 🐍 Python é minha paixão na programação
-- 📘 Estudando para ser um backend developer
 
 <br>
 <br>
