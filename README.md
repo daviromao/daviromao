@@ -1,8 +1,6 @@
 # 🖖 Hello, World!
 
-Olá! Me chamo Davi. Descobri a programação logo quando criança e desde então tenho total certeza do que mais quero: usar da programação como meio para criar inovações!
-Sou uma pessoa que aprecia a informática, programação, computadores e tudo que envolve tecnologias, especialmente por ter a capacidade de aprende-las de forma autônoma e rápida.
-Creio que posso agregar em projetos reais que façam a diferença para pessoas reais, por isso, tenho a necessidade de consumir, aprender, aplicar e ensinar conhecimento.
+Olá!
 
 <br>
 
@@ -14,7 +12,6 @@ Creio que posso agregar em projetos reais que façam a diferença para pessoas r
 - 🏫 Estudante de Ciências da Computação - UFAL
 - 👨🏻‍💻 Amo programar e aprender sobre tecnologia
 - 🧠 Gosto de física e matemática
-- 🐍 Python é minha paixão na programação
 
 <br>
 <br>
